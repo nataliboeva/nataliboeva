@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nataliboeva&theme=jolly&hide_border=true)<br/>
 
-### ✍️ Dev Quote 
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
