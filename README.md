@@ -2,7 +2,7 @@
 📚 Pursuing a comprehensive education at @SoftUni University<br><br>📌 Currently focused on mastering C#<br><br>🎯 Beyond just learning C#, I aim to apply my growing skills to tackle real-world challenges, contributing to projects that matter.<br><br>📈 I'm on a path to not just learn to code but to think like a developer, to understand the nuances of technology, and to innovate.<br><br>💎 When I’m not buried in code, I love hanging out with friends and soaking in the fun side of life.
 
 
-## 🌐 Socials 
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nataliboevaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natali-boeva-8b0a762b8) 
 
 # 💻 Tech Stack
