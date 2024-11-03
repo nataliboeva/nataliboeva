@@ -1,18 +1,16 @@
 ![gif](https://github.com/user-attachments/assets/10ad3ecf-e298-46cd-ab9c-f613be590f88)
-# About Me 
+# About Me:
+🎓Welcome! I’m a software development student, passionate about coding, problem-solving, and building a solid tech foundation.<br><br>🎯 Beyond coding, I’m committed to developing a critical and creative approach to technology, always looking to innovate.<br><br>💎In my downtime, I enjoy connecting with friends, exploring new interests, and finding inspiration beyond the screen.
 
-📚 Pursuing a comprehensive education at @SoftUni University<br><br>📌 Currently focused on mastering C#<br><br>🎯 Beyond just learning C#, I aim to apply my growing skills to tackle real-world challenges, contributing to projects that matter.<br><br>📈 I'm on a path to not just learn to code but to think like a developer, to understand the nuances of technology, and to innovate.<br><br>💎 When I’m not buried in code, I love hanging out with friends and soaking in the fun side of life.
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nataliboevaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natali-boeva-8b0a762b8) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28110766) 
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nataliboevaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natali-boeva-8b0a762b8) 
-
-# 💻 Tech Stack 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+# 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nataliboeva&theme=jolly&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-[![](https://visitcount.itsvg.in/api?id=nataliboeva&icon=3&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nataliboeva&icon=1&color=11)](https://visitcount.itsvg.in)
