@@ -1,4 +1,4 @@
-![github-gif](https://github.com/user-attachments/assets/7e03c739-f8f8-491e-8033-e759c948a80a)
+![gif](https://github.com/user-attachments/assets/10ad3ecf-e298-46cd-ab9c-f613be590f88)
 # About Me 
 
 📚 Pursuing a comprehensive education at @SoftUni University<br><br>📌 Currently focused on mastering C#<br><br>🎯 Beyond just learning C#, I aim to apply my growing skills to tackle real-world challenges, contributing to projects that matter.<br><br>📈 I'm on a path to not just learn to code but to think like a developer, to understand the nuances of technology, and to innovate.<br><br>💎 When I’m not buried in code, I love hanging out with friends and soaking in the fun side of life.
