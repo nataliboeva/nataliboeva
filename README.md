@@ -1,3 +1,5 @@
+![Harpers Inc](https://github.com/user-attachments/assets/844b1499-8544-4e6e-9065-f80bc0c77b17)
+
 # About Me 
 📚 Pursuing a comprehensive education at @SoftUni University<br><br>📌 Currently focused on mastering C#<br><br>🎯 Beyond just learning C#, I aim to apply my growing skills to tackle real-world challenges, contributing to projects that matter.<br><br>📈 I'm on a path to not just learn to code but to think like a developer, to understand the nuances of technology, and to innovate.<br><br>💎 When I’m not buried in code, I love hanging out with friends and soaking in the fun side of life.
 
