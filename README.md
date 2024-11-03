@@ -1,10 +1,11 @@
 ![gif](https://github.com/user-attachments/assets/10ad3ecf-e298-46cd-ab9c-f613be590f88)
 
-<img align="center">
+<a align="center">
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=nataliboeva&label=Profile%20Views&color=11&icon=1&pretty=true" />
   </a>
-</img>
+</a>
+
 # ABOUT ME
 🎓Welcome! I’m a software development student, passionate about coding, problem-solving, and building a solid tech foundation.<br><br>🎯 Beyond coding, I’m committed to developing a critical and creative approach to technology, always looking to innovate.<br><br>💎In my downtime, I enjoy connecting with friends, exploring new interests, and finding inspiration beyond the screen.
 
