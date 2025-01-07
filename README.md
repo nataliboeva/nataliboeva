@@ -14,5 +14,5 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
 ## GITHUB STATS
-![nataliboeva's Stats](https://github-readme-stats.vercel.app/api?username=nataliboeva&theme=jolly&show_icons=true&hide_border=true&count_private=false) <br>
+![nataliboeva's Stats](https://github-readme-stats.vercel.app/api?username=nataliboeva&theme=jolly&show_icons=true&hide_border=true&count_private=false)
 ![nataliboeva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&show_icons=true&hide_border=true&layout=compact)
