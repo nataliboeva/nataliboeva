@@ -15,7 +15,6 @@
 
 ## GITHUB STATS
 <p align="center">
-![nataliboeva's Stats](https://github-readme-stats.vercel.app/api?username=nataliboeva&theme=jolly&show_icons=true&hide_border=true&count_private=false)
-<br>
+![nataliboeva's Stats](https://github-readme-stats.vercel.app/api?username=nataliboeva&theme=jolly&show_icons=true&hide_border=true&count_private=false)<br>
 ![nataliboeva's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&show_icons=true&hide_border=true&layout=compact)
 </p>
