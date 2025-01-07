@@ -43,5 +43,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&show_icons=true&hide_border=false&layout=compact&hide_title=true&bg_color=371d51" alt="nataliboeva's GitHub Stats" />
 ![GitHub Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=nataliboeva&theme=react-dark&hide_border=true)
 </div>
-![GitHub Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=nataliboeva&theme=react-dark&hide_border=true)
-
