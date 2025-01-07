@@ -44,5 +44,5 @@
 </div>
 <div align="center">
 <a href="https://git.io/streak-stats">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=nataliboeva&theme=jolly&hide_border=true&border_radius=14.6&short_numbers=true&card_width=180&card_height=180&background=371D51&fire=FF64DA&ring=FF64DA&currStreakNum=FF64DA&currStreakLabel=FF64DA&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak"/></a>
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=nataliboeva&theme=jolly&hide_border=true&border_radius=12&short_numbers=true&card_width=180&card_height=180&background=371D51&fire=FF64DA&ring=FF64DA&currStreakNum=FF64DA&currStreakLabel=FF64DA&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak"/></a>
 </div>
