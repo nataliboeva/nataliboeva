@@ -1,6 +1,6 @@
 ![gif](https://github.com/user-attachments/assets/10ad3ecf-e298-46cd-ab9c-f613be590f88)
 
-<p align="center">
+<p align="left">
      <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=Nice+to+meet+you!" />
 
 
