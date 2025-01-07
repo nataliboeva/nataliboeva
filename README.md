@@ -34,12 +34,13 @@
 
 ## ANALYTICS
 <div align="center">
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51&Border=371D51">   
-     <img  alt="nataliboeva's GitHub Stats" height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51&Border=371D51" />  
-</a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&show_icons=true&hide_border=true&layout=compact&hide_title=falsee&bg_color=371d51" alt="nataliboeva's GitHub Stats" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51&Border=371D51">   
+    <img alt="nataliboeva's GitHub Stats" height="120em" width="240em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51&Border=371D51" />  
+  </a>
+  <img height="120em" width="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&show_icons=true&hide_border=true&layout=compact&hide_title=falsee&bg_color=371d51" alt="nataliboeva's GitHub Stats" />
 </div>
 <div align="center">
-<a href="https://git.io/streak-stats">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=nataliboeva&theme=jolly&hide_border=true&border_radius=12&short_numbers=true&card_width=180&card_height=180&background=371D51&fire=FF64DA&ring=FF64DA&currStreakNum=FF64DA&currStreakLabel=FF64DA&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak"/></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nataliboeva&theme=jolly&hide_border=true&border_radius=12&short_numbers=true&card_width=120&card_height=120&background=371D51&fire=FF64DA&ring=FF64DA&currStreakNum=FF64DA&currStreakLabel=FF64DA&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak"/>
+  </a>
 </div>
