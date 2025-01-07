@@ -13,12 +13,12 @@
 <div align="left">
   <div style="margin-bottom: 30px">
     <img src="https://img.shields.io/badge/Frontend-9B6FB5?style=for-the-badge"/>
-    <br/><br/>
+    <br/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
   </div>
-  <br/><br/>
+  <br/>
   <div style="margin-bottom: 30px">
     <img src="https://img.shields.io/badge/Backend-9B6FB5?style=for-the-badge"/>
     <br/><br/>
@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" title=".NET"/> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" title="Microsoft SQL Server"/>
   </div>
-  <br/><br/>
+  <br/>
   <div>
     <img src="https://img.shields.io/badge/Tools-9B6FB5?style=for-the-badge"/>
     <br/><br/>
