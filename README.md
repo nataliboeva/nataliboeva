@@ -2,11 +2,7 @@
 
 <p align="center">
      <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=Nice+to+meet+you!" />
- 
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nataliboeva&color=371D51&style=flat-square&label=Profile%20views&labelColor=FFFFFF" alt=""/>
-</p>
+
 
 # ABOUT ME &nbsp;<img src="https://komarev.com/ghpvc/?username=nataliboeva&color=371D51&style=flat-square&label=Profile%20views&labelColor=FFFFFF" alt="" align="center"/></h2>
 🎓Welcome! I’m a software development student, passionate about coding, problem-solving, and building a solid tech foundation.<br><br>🎯 Beyond coding, I’m committed to developing a critical and creative approach to technology, always looking to innovate.<br><br>💎In my downtime, I enjoy connecting with friends, exploring new interests, and finding inspiration beyond the screen.
