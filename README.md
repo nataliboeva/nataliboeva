@@ -35,9 +35,9 @@
 ## ANALYTICS
 <div align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51&Border=371D51">   
-     <img  alt="nataliboeva's GitHub Stats" height="180em" width="450em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51&Border=371D51" />  
+     <img  alt="nataliboeva's GitHub Stats" height="180em" width="420em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51&Border=371D51" />  
 </a>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&show_icons=true&hide_border=true&layout=compact&hide_title=falsee&bg_color=371d51" alt="nataliboeva's GitHub Stats" />
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&show_icons=true&hide_border=true&layout=compact&hide_title=falsee&bg_color=371d51" alt="nataliboeva's GitHub Stats" />
 </div>
 <div align="center">
 <a href="https://git.io/streak-stats">
