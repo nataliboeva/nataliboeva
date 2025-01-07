@@ -40,7 +40,13 @@
   <img alt="nataliboeva's GitHub Stats" height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51" />
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51">  
        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&show_icons=true&hide_border=false&layout=compact&bg_color=371d51" alt="nataliboeva's GitHub Stats" />&nbsp;&nbsp;
+<div align="center">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51">
+    <img alt="nataliboeva's GitHub Stats" height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51" />
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliboeva&theme=jolly&hide_border=false&background=371D51&ring=9B6FB5&fire=9B6FB5&currStreakLabel=9B6FB5" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&show_icons=true&hide_border=false&layout=compact&hide_title=true&bg_color=371d51" alt="nataliboeva's GitHub Stats" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliboeva&theme=jolly&hide_border=false&background=371D51&ring=9B6FB5&fire=9B6FB5&currStreakLabel=9B6FB5" alt="GitHub Streak"/>
 </div>
