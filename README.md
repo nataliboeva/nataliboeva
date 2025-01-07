@@ -17,3 +17,4 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=jolly&showIcons=false&preferLogin=false&Background=371D52">
   <img  alt="nataliboeva's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=github&theme=jolly&showIcons=false&preferLogin=false&Background=371D52" /> 
   </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="nataliboeva's GitHub Stats" />
