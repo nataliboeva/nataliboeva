@@ -42,4 +42,4 @@
   </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&show_icons=true&hide_border=false&layout=compact&hide_title=true&bg_color=371d51" alt="nataliboeva's GitHub Stats" />
 </div>
-<img alt="GitHub Streak Stats" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=nataliboeva&theme=jolly&hide_border=false&background=371D51" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nataliboeva)](https://git.io/streak-stats)
