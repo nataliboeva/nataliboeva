@@ -1,7 +1,7 @@
 ![gif](https://github.com/user-attachments/assets/10ad3ecf-e298-46cd-ab9c-f613be590f88)
 
 <p align="center">
-  [![Visits Badge](https://badges.pufler.dev/visits/nataliboeva/nataliboeva)](https://badges.pufler.dev)
+  <img src="https://badges.pufler.dev/visits/{nataliboeva}/{nataliboeva}"/>
 </p>
 
 # ABOUT ME
