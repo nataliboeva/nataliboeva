@@ -10,24 +10,24 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nataliboevaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natali-boeva-8b0a762b8) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28110766) 
 
 ## TECH STACK
-<div align="left">
-  <div style="padding: 200px">
+<div style="text-align: left;">
+  <div style="padding: 20px; display: inline-block;">
     <img src="https://img.shields.io/badge/Frontend-9B6FB5?style=for-the-badge"/>
-  </br>
+    <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" title="HTML5"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" title="CSS3"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" title="JavaScript"/>
   </div>
-  <div style="padding: 200px">
+  <div style="padding: 20px; display: inline-block;">
     <img src="https://img.shields.io/badge/Backend-9B6FB5?style=for-the-badge"/>
-       <br>
+    <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30" title="C#"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="30" height="30" title=".NET"/> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="30" height="30" title="Microsoft SQL Server"/>
   </div>
- <div style="margin-bottom: 80px">
+  <div style="margin-bottom: 40px; text-align: left;">
     <img src="https://img.shields.io/badge/Tools-9B6FB5?style=for-the-badge"/>
-      <br>
+    <br>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" title="Git"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" title="TypeScript"/>
   </div>
