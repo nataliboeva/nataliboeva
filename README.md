@@ -1,6 +1,7 @@
 ![gif](https://github.com/user-attachments/assets/10ad3ecf-e298-46cd-ab9c-f613be590f88)
+
 <p align="center">
-     <img src="https://readme-typing-svg.herokuapp.com font=&center=true&width=380&height=45&lines=Nice to meet you!/>
+     <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=Bruno+Brito;Father+%F0%9F%91%A8%E2%80%8D%F0%9F%91%A9%E2%80%8D%F0%9F%91%A7%E2%80%8D%F0%9F%91%A6;Microsoft+MVP;Software+craftsmanship+%F0%9F%92%8E;Nice+to+meet+you+%F0%9F%98%84" />
  
 </p>
 <p align="center">
