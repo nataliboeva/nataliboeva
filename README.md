@@ -18,6 +18,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
   </div>
+     <br/>
   <div style="margin-bottom: 30px">
     <img src="https://img.shields.io/badge/Backend-9B6FB5?style=for-the-badge"/>
     <br/>
@@ -25,10 +26,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" title=".NET"/> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" title="Microsoft SQL Server"/>
   </div>
-  <br/>
   <div>
+  <br/>
     <img src="https://img.shields.io/badge/Tools-9B6FB5?style=for-the-badge"/>
-    <br/><br/>
+    <br/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" title="Git"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"/>
   </div>
