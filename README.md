@@ -1,9 +1,7 @@
 ![gif](https://github.com/user-attachments/assets/10ad3ecf-e298-46cd-ab9c-f613be590f88)
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=nataliboeva&label=Profile%20Views&color=11&icon=1&pretty=true" />
-  </a>
+  [![Visits Badge](https://badges.pufler.dev/visits/nataliboeva/nataliboeva)](https://badges.pufler.dev)
 </p>
 
 # ABOUT ME
