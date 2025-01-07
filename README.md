@@ -19,6 +19,6 @@
 
 ## GITHUB STATS
 <div height="180em">
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51"> <img  alt="nataliboeva's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51" /> </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&show_icons=true&hide_border=false&layout=compact" alt="nataliboeva's GitHub Stats" />
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51"> <img  alt="nataliboeva's GitHub Stats" height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51" /> </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=jolly&show_icons=true&hide_border=false&layout=compact" alt="nataliboeva's GitHub Stats" />
 </div>
