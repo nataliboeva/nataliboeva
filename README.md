@@ -5,7 +5,7 @@
  
 </p>
 <p align="center">
-     <img src="https://komarev.com/ghpvc/?username=nataliboeva&color=371D51" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=nataliboeva&color=371D51&style=flat-square&label=Profile%20views&labelColor=FFFFFF" alt=""/>
 </p>
 
 # ABOUT ME
