@@ -30,7 +30,13 @@
   </div>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <div style="display: inline-block; text-align: center">
-    ![Tools](https://img.shields.io/badge/Tools-9B6FB5?style=for
+    ![Tools](https://img.shields.io/badge/Tools-9B6FB5?style=for-the-badge)
+    <br/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </div>
+</div>
+
 ## ANALYTICS
 <div align="center">
   <img alt="nataliboeva's GitHub Stats" height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51" />
