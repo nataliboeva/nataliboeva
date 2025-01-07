@@ -5,7 +5,7 @@
  
 </p>
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/{nataliboeva}/{nataliboeva}"/>
+     <img src="https://komarev.com/ghpvc/?username=nataliboeva&color=371D51" alt=""/>
 </p>
 
 # ABOUT ME
