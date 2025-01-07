@@ -11,14 +11,14 @@
 
 ## TECH STACK
 <div align="left">
-  <div style="margin-bottom: 80px">
+  <div style="padding: 200px">
     <img src="https://img.shields.io/badge/Frontend-9B6FB5?style=for-the-badge"/>
   </br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" title="HTML5"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" title="CSS3"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" title="JavaScript"/>
   </div>
-  <div style="padding-bottom: 200px">
+  <div style="padding: 200px">
     <img src="https://img.shields.io/badge/Backend-9B6FB5?style=for-the-badge"/>
        <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30" title="C#"/> 
