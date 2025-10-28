@@ -27,7 +27,7 @@
 </p>
 
 
-### Backend and Databases
+#### Backend and Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="22" alt=".NET" />
   <img src="https://img.shields.io/badge/.NET-512DA8?" height="22" />
@@ -36,9 +36,7 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?" height="22" />
 </p>
 
----
-
-### Frontend and Frameworks
+#### Frontend and Frameworks
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="HTML5" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?" height="22" />
@@ -51,7 +49,7 @@
 </p>
 
 
-### Cloud and DevOps
+#### Cloud and DevOps
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="28" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?" height="22" />
