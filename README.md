@@ -11,33 +11,32 @@
 
 ## TECH STACK
 
-### <span style="color:#b56576;;">Programming Languages</span>
+### 🧩 <span>Programming Languages</span>
 <p>
-  <img src="https://img.shields.io/badge/C%23-9b5de5?logo=csharp&logoColor=white&style=flat&labelColor=9b5de5&color=E6D5FA" />
-  <img src="https://img.shields.io/badge/Java-d16ba5?logo=openjdk&logoColor=white&style=flat&labelColor=d16ba5&color=F3C6E7" />
-  <img src="https://img.shields.io/badge/C++-b56576?logo=c%2B%2B&logoColor=white&style=flat&labelColor=b56576&color=F0C8CF" />
-  <img src="https://img.shields.io/badge/JavaScript-ff6f91?logo=javascript&logoColor=white&style=flat&labelColor=ff6f91&color=FFD9E1" />
+  <img src="https://img.shields.io/badge/C%23-4527a0?logo=csharp&logoColor=white&style=flat&labelColor=4527a0&color=E0D4F7" />
+  <img src="https://img.shields.io/badge/Java-f57f17?logo=openjdk&logoColor=white&style=flat&labelColor=f57f17&color=FFE0B2" />
+  <img src="https://img.shields.io/badge/C++-283593?logo=c%2B%2B&logoColor=white&style=flat&labelColor=283593&color=C5C6F2" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=flat&labelColor=f7df1e&color=fff9c4" />
 </p>
 
-###💻 <span style="color:#b56576;;">Backend and Databases</span>
+### 💻 <span>Backend and Databases</span>
 <p>
-  <img src="https://img.shields.io/badge/.NET-9b5de5?logo=dotnet&logoColor=white&style=flat&labelColor=9b5de5&color=E6D5FA" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-d16ba5?logo=microsoftsqlserver&logoColor=white&style=flat&labelColor=d16ba5&color=F3C6E7" />
+  <img src="https://img.shields.io/badge/.NET-512da8?logo=dotnet&logoColor=white&style=flat&labelColor=512da8&color=DDD3F8" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-d84315?logo=microsoftsqlserver&logoColor=white&style=flat&labelColor=d84315&color=f3c2a2" />
 </p>
 
-### <span style="color:#b56576;">Frontend and Frameworks</span>
+### 🖍 <span>Frontend and Frameworks</span>
 <p>
-  <img src="https://img.shields.io/badge/HTML5-ff6f91?logo=html5&logoColor=white&style=flat&labelColor=ff6f91&color=FFD9E1" />
-  <img src="https://img.shields.io/badge/CSS3-fc6c85?logo=css3&logoColor=white&style=flat&labelColor=fc6c85&color=FFD9E1" />
-  <img src="https://img.shields.io/badge/Bootstrap-d16ba5?logo=bootstrap&logoColor=white&style=flat&labelColor=d16ba5&color=F3C6E7" />
+  <img src="https://img.shields.io/badge/HTML5-e44d26?logo=html5&logoColor=white&style=flat&labelColor=e44d26&color=F2BDA5" />
+  <img src="https://img.shields.io/badge/CSS3-264de4?logo=css3&logoColor=white&style=flat&labelColor=264de4&color=BACAF7" />
+  <img src="https://img.shields.io/badge/Bootstrap-6f42c1?logo=bootstrap&logoColor=white&style=flat&labelColor=6f42c1&color=D5C9F7" />
 </p>
 
-### ☁️ <span style="color:#b56576;">Cloud and DevOps</span>
+### ☁️ <span>Cloud and DevOps</span>
 <p>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-b56576?logo=githubactions&logoColor=white&style=flat&labelColor=b56576&color=F0C8CF" />
-  <img src="https://img.shields.io/badge/Jenkins-ff6f91?logo=jenkins&logoColor=white&style=flat&labelColor=ff6f91&color=FFD9E1" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2c2e43?logo=githubactions&logoColor=white&style=flat&labelColor=2c2e43&color=BBB9E6" />
+  <img src="https://img.shields.io/badge/Jenkins-6d4c41?logo=jenkins&logoColor=white&style=flat&labelColor=6d4c41&color=D7C4B7" />
 </p>
-
 
 ## ANALYTICS
 <div align="center">
