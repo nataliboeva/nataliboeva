@@ -10,56 +10,57 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nataliboevaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natali-boeva-8b0a762b8) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28110766) 
 
 ## TECH STACK
-
 ### Programming Languages
-<p>
-  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
-    <img src="https://skillicons.dev/icons?i=cs" height="20" alt="C#" style="margin-right:6px;"> C#
-  </span>
-  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="Java" style="margin-right:6px;"> Java
-  </span>
-  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="C++" style="margin-right:6px;"> C++
-  </span>
-  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" style="margin-right:6px;"> JavaScript
-  </span>
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="24" alt="C#"></td>
+    <td>C#</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="Java"></td>
+    <td>Java</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="24" alt="C++"></td>
+    <td>C++</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="JavaScript"></td>
+    <td>JavaScript</td>
+  </tr>
+</table>
+
+---
 
 ### Backend and Databases
-<p>
-  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="20" alt=".NET" style="margin-right:6px;"> .NET
-  </span>
-  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="Microsoft SQL Server" style="margin-right:6px;"> Microsoft SQL Server
-  </span>
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="24" alt=".NET"></td>
+    <td>.NET</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="24" alt="Microsoft SQL Server"></td>
+    <td>Microsoft SQL Server</td>
+  </tr>
+</table>
+
+---
 
 ### Frontend and Frameworks
-<p>
-  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML5" style="margin-right:6px;"> HTML5
-  </span>
-  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS3" style="margin-right:6px;"> CSS3
-  </span>
-  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="Bootstrap" style="margin-right:6px;"> Bootstrap
-  </span>
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" alt="HTML5"></td>
+    <td>HTML5</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" alt="CSS3"></td>
+    <td>CSS3</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="24" alt="Bootstrap"></td>
+    <td>Bootstrap</td>
+  </tr>
+</table>
+
+---
 
 ### Cloud and DevOps
-<p>
-  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="20" alt="GitHub Actions" style="margin-right:6px;"> GitHub Actions
-  </span>
-  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="20" alt="Jenkins" style="margin-right:6px;"> Jenkins
-  </span>
-</p>
-
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="24" alt="GitHub Actions"></td>
+    <td>GitHub Actions</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="24" alt="Jenkins"></td>
+    <td>Jenkins</td>
+  </tr>
+</table>
 ## ANALYTICS
 <div align="center">
 <img  alt="nataliboeva's GitHub Stats" height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51&Border=371D51"/>  
