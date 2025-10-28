@@ -4,32 +4,39 @@
      <img src="https://readme-typing-svg.herokuapp.com?font=&center=true&width=380&height=45&lines=Nice+to+meet+you!" />
 
 
-## ABOUT ME &nbsp;<img src="https://komarev.com/ghpvc/?username=nataliboeva&color=371D51&style=flat-square&label=Profile%20views&labelColor=FFFFFF" alt="" align="center"/></h2>🎓  Welcome! I’m a software development student, passionate about coding, problem-solving, and building a solid tech foundation.<br><br>🎯  Beyond coding, I’m committed to developing a critical and creative approach to technology, always looking to innovate.<br><br>💎 In my downtime, I enjoy connecting with friends, exploring new interests, and finding inspiration beyond the screen.
+## ABOUT ME &nbsp;<img src="https://komarev.com/ghpvc/?username=nataliboeva&color=371D51&style=flat-square&label=Profile%20views&labelColor=FFFFFF" alt="" align="center"/></h2>🎓  Welcome! I’m a software development student, passionate about coding, problem-solving, and building a solid tech foundation.<br><br>🎯  Beyond coding, I’m committed to developing a critical and creative approach to technology, always looking to innovate.
 
 ## SOCIALS
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nataliboevaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natali-boeva-8b0a762b8) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28110766) 
 
 ## TECH STACK
-<div align="left">
-  <img src="https://img.shields.io/badge/Frontend-9B6FB5?style=for-the-badge"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" title="HTML5"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" title="CSS3"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" title="JavaScript"/>
-  <br>
 
-  <img src="https://img.shields.io/badge/Backend-9B6FB5?style=for-the-badge"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30" title="C#"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="30" height="30" title=".NET"/> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="30" height="30" title="Microsoft SQL Server"/>
-  <br>
+### <span style="color:#b56576;;">Programming Languages</span>
+<p>
+  <img src="https://img.shields.io/badge/C%23-9b5de5?logo=csharp&logoColor=white&style=flat&labelColor=9b5de5&color=E6D5FA" />
+  <img src="https://img.shields.io/badge/Java-d16ba5?logo=openjdk&logoColor=white&style=flat&labelColor=d16ba5&color=F3C6E7" />
+  <img src="https://img.shields.io/badge/C++-b56576?logo=c%2B%2B&logoColor=white&style=flat&labelColor=b56576&color=F0C8CF" />
+  <img src="https://img.shields.io/badge/JavaScript-ff6f91?logo=javascript&logoColor=white&style=flat&labelColor=ff6f91&color=FFD9E1" />
+</p>
 
-  <img src="https://img.shields.io/badge/Tools-9B6FB5?style=for-the-badge"/>
-  <br>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" title="Git"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" title="TypeScript"/>
-</div>
+###💻 <span style="color:#b56576;;">Backend and Databases</span>
+<p>
+  <img src="https://img.shields.io/badge/.NET-9b5de5?logo=dotnet&logoColor=white&style=flat&labelColor=9b5de5&color=E6D5FA" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-d16ba5?logo=microsoftsqlserver&logoColor=white&style=flat&labelColor=d16ba5&color=F3C6E7" />
+</p>
+
+### <span style="color:#b56576;">Frontend and Frameworks</span>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-ff6f91?logo=html5&logoColor=white&style=flat&labelColor=ff6f91&color=FFD9E1" />
+  <img src="https://img.shields.io/badge/CSS3-fc6c85?logo=css3&logoColor=white&style=flat&labelColor=fc6c85&color=FFD9E1" />
+  <img src="https://img.shields.io/badge/Bootstrap-d16ba5?logo=bootstrap&logoColor=white&style=flat&labelColor=d16ba5&color=F3C6E7" />
+</p>
+
+### ☁️ <span style="color:#b56576;">Cloud and DevOps</span>
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-b56576?logo=githubactions&logoColor=white&style=flat&labelColor=b56576&color=F0C8CF" />
+  <img src="https://img.shields.io/badge/Jenkins-ff6f91?logo=jenkins&logoColor=white&style=flat&labelColor=ff6f91&color=FFD9E1" />
+</p>
 
 
 ## ANALYTICS
