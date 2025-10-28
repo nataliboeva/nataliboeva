@@ -57,8 +57,11 @@
 
 ## ANALYTICS
 <div align="center">
-<img  alt="nataliboeva's GitHub Stats" height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=level&theme=react&showIcons=false&preferLogin=false&Background=271D61&Border=371D51"/>  
+<img  alt="nataliboeva's GitHub Stats" height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=level&theme=react&showIcons=false&preferLogin=false&Background=271D61&Border=271D61"/>  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliboeva&theme=react&show_icons=true&hide_border=true&layout=compact&hide_title=falsee&bg_color=271D61" alt="nataliboeva's GitHub Stats" />
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nataliboeva&theme=react&hide_border=true&border_radius=12&short_numbers=true&card_width=180&card_height=180&background=271D61&fire=react&ring=react&currStreakNum=react&currStreakLabel=react&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak"/>
 </div>
 
 
