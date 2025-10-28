@@ -11,66 +11,54 @@
 
 ## TECH STACK
 
-<div style="font-size:0.95rem;color:#334155">
-  <h3 style="margin:0 0 6px 0;font-weight:700;color:#334155;letter-spacing:.2px;">
-    Programming Languages
-  </h3>
-   <div style="height:2px;background:linear-gradient(90deg,#6D28D9,#0EA5E9);width:230px;margin:6px 0 14px 0;border-radius:2px;"></div>
-  <p style="margin:0.2rem 0 1rem 0;">
-    <span style="display:inline-flex;align-items:center;margin-right:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="26" alt="C#" style="vertical-align:middle;margin-right:8px;"> C#
-    </span>
-    <span style="display:inline-flex;align-items:center;margin-right:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26" alt="Java" style="vertical-align:middle;margin-right:8px;"> Java
-    </span>
-    <span style="display:inline-flex;align-items:center;margin-right:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="26" alt="C++" style="vertical-align:middle;margin-right:8px;"> C++
-    </span>
-    <span style="display:inline-flex;align-items:center;margin-right:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="JavaScript" style="vertical-align:middle;margin-right:8px;"> JavaScript
-    </span>
-  </p>
-  <h3 style="margin:0 0 6px 0;font-weight:700;color:#334155;letter-spacing:.2px;">
-    Backend and Databases
-  </h3>
-   <div style="height:2px;background:linear-gradient(90deg,#6D28D9,#0EA5E9);width:230px;margin:6px 0 14px 0;border-radius:2px;"></div>
-  <p style="margin:0.2rem 0 1rem 0;">
-    <span style="display:inline-flex;align-items:center;margin-right:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="26" alt=".NET" style="vertical-align:middle;margin-right:8px;"> .NET
-    </span>
-    <span style="display:inline-flex;align-items:center;margin-right:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="26" alt="Microsoft SQL Server" style="vertical-align:middle;margin-right:8px;"> Microsoft SQL Server
-    </span>
-  </p>
-  <h3 style="margin:0 0 6px 0;font-weight:700;color:#334155;letter-spacing:.2px;">
-    Frontend and Frameworks
-  </h3>
-   <div style="height:2px;background:linear-gradient(90deg,#6D28D9,#0EA5E9);width:230px;margin:6px 0 14px 0;border-radius:2px;"></div>
-  <p style="margin:0.2rem 0 1rem 0;">
-    <span style="display:inline-flex;align-items:center;margin-right:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="HTML5" style="vertical-align:middle;margin-right:8px;"> HTML5
-    </span>
-    <span style="display:inline-flex;align-items:center;margin-right:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="CSS3" style="vertical-align:middle;margin-right:8px;"> CSS3
-    </span>
-    <span style="display:inline-flex;align-items:center;margin-right:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="26" alt="Bootstrap" style="vertical-align:middle;margin-right:8px;"> Bootstrap
-    </span>
-  </p>
-  <h3 style="margin:0 0 6px 0;font-weight:700;color:#334155;letter-spacing:.2px;">
-    Cloud and DevOps
-  </h3>
-   <div style="height:2px;background:linear-gradient(90deg,#6D28D9,#0EA5E9);width:230px;margin:6px 0 14px 0;border-radius:2px;"></div>
-  <p style="margin:0.2rem 0 0 0;">
-    <span style="display:inline-flex;align-items:center;margin-right:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="26" alt="GitHub Actions" style="vertical-align:middle;margin-right:8px;"> GitHub Actions
-    </span>
-    <span style="display:inline-flex;align-items:center;margin-right:16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="26" alt="Jenkins" style="vertical-align:middle;margin-right:8px;"> Jenkins
-    </span>
-  </p>
+### Programming Languages
+<p>
+  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
+    <img src="https://skillicons.dev/icons?i=cs" height="20" alt="C#" style="margin-right:6px;"> C#
+  </span>
+  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="Java" style="margin-right:6px;"> Java
+  </span>
+  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="C++" style="margin-right:6px;"> C++
+  </span>
+  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" style="margin-right:6px;"> JavaScript
+  </span>
+</p>
 
-</div>
+### Backend and Databases
+<p>
+  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="20" alt=".NET" style="margin-right:6px;"> .NET
+  </span>
+  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="Microsoft SQL Server" style="margin-right:6px;"> Microsoft SQL Server
+  </span>
+</p>
+
+### Frontend and Frameworks
+<p>
+  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML5" style="margin-right:6px;"> HTML5
+  </span>
+  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS3" style="margin-right:6px;"> CSS3
+  </span>
+  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="20" alt="Bootstrap" style="margin-right:6px;"> Bootstrap
+  </span>
+</p>
+
+### Cloud and DevOps
+<p>
+  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="20" alt="GitHub Actions" style="margin-right:6px;"> GitHub Actions
+  </span>
+  <span style="background-color:#1e293b; color:white; padding:6px 10px; border-radius:8px; margin-right:6px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="20" alt="Jenkins" style="margin-right:6px;"> Jenkins
+  </span>
+</p>
 
 ## ANALYTICS
 <div align="center">
