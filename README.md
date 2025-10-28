@@ -10,59 +10,57 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nataliboevaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natali-boeva-8b0a762b8) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28110766) 
 
 ## TECH STACK
-## TECH STACK
 
 ### Programming Languages
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="24" alt="C#"></td>
-    <td>C#</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="Java"></td>
-    <td>Java</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="24" alt="C++"></td>
-    <td>C++</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="JavaScript"></td>
-    <td>JavaScript</td>
-  </tr>
-</table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="22" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-7930B3?" height="22" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="22" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-E76F00?" height="22" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" alt="C++" />
+  <img src="https://img.shields.io/badge/C++-00599C?" height="22" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?" height="22" />
+</p>
 
 ---
 
 ### Backend and Databases
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="24" alt=".NET"></td>
-    <td>.NET</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="24" alt="Microsoft SQL Server"></td>
-    <td>Microsoft SQL Server</td>
-  </tr>
-</table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="22" alt=".NET" />
+  <img src="https://img.shields.io/badge/.NET-512DA8?" height="22" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="26" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?" height="22" />
+</p>
 
 ---
 
 ### Frontend and Frameworks
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" alt="HTML5"></td>
-    <td>HTML5</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" alt="CSS3"></td>
-    <td>CSS3</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="24" alt="Bootstrap"></td>
-    <td>Bootstrap</td>
-  </tr>
-</table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="HTML5" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?" height="22" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?" height="22" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="22" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?" height="22" />
+</p>
 
 ---
 
 ### Cloud and DevOps
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="24" alt="GitHub Actions"></td>
-    <td>GitHub Actions</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="24" alt="Jenkins"></td>
-    <td>Jenkins</td>
-  </tr>
-</table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="28" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?" height="22" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="28" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?" height="22" />
+</p>
 
 ## ANALYTICS
 <div align="center">
