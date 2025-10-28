@@ -10,6 +10,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nataliboevaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natali-boeva-8b0a762b8) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28110766) 
 
 ## TECH STACK
+## TECH STACK
+
 ### Programming Languages
 <table>
   <tr>
@@ -61,6 +63,7 @@
     <td>Jenkins</td>
   </tr>
 </table>
+
 ## ANALYTICS
 <div align="center">
 <img  alt="nataliboeva's GitHub Stats" height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nataliboeva?cardType=level&theme=jolly&showIcons=false&preferLogin=false&Background=371D51&Border=371D51"/>  
