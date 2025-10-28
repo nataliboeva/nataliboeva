@@ -11,32 +11,66 @@
 
 ## TECH STACK
 
-### 🧩 <span>Programming Languages</span>
-<p>
-  <img src="https://img.shields.io/badge/C%23-4527a0?logo=csharp&logoColor=white&style=flat&labelColor=4527a0&color=E0D4F7" />
-  <img src="https://img.shields.io/badge/Java-f57f17?logo=openjdk&logoColor=white&style=flat&labelColor=f57f17&color=FFE0B2" />
-  <img src="https://img.shields.io/badge/C++-283593?logo=c%2B%2B&logoColor=white&style=flat&labelColor=283593&color=C5C6F2" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=flat&labelColor=f7df1e&color=fff9c4" />
-</p>
+<div style="font-size:0.95rem;color:#334155">
+  <h3 style="margin:0 0 6px 0;font-weight:700;color:#334155;letter-spacing:.2px;">
+    Programming Languages
+  </h3>
+   <div style="height:2px;background:linear-gradient(90deg,#6D28D9,#0EA5E9);width:230px;margin:6px 0 14px 0;border-radius:2px;"></div>
+  <p style="margin:0.2rem 0 1rem 0;">
+    <span style="display:inline-flex;align-items:center;margin-right:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="26" alt="C#" style="vertical-align:middle;margin-right:8px;"> C#
+    </span>
+    <span style="display:inline-flex;align-items:center;margin-right:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26" alt="Java" style="vertical-align:middle;margin-right:8px;"> Java
+    </span>
+    <span style="display:inline-flex;align-items:center;margin-right:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="26" alt="C++" style="vertical-align:middle;margin-right:8px;"> C++
+    </span>
+    <span style="display:inline-flex;align-items:center;margin-right:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="JavaScript" style="vertical-align:middle;margin-right:8px;"> JavaScript
+    </span>
+  </p>
+  <h3 style="margin:0 0 6px 0;font-weight:700;color:#334155;letter-spacing:.2px;">
+    Backend and Databases
+  </h3>
+   <div style="height:2px;background:linear-gradient(90deg,#6D28D9,#0EA5E9);width:230px;margin:6px 0 14px 0;border-radius:2px;"></div>
+  <p style="margin:0.2rem 0 1rem 0;">
+    <span style="display:inline-flex;align-items:center;margin-right:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="26" alt=".NET" style="vertical-align:middle;margin-right:8px;"> .NET
+    </span>
+    <span style="display:inline-flex;align-items:center;margin-right:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="26" alt="Microsoft SQL Server" style="vertical-align:middle;margin-right:8px;"> Microsoft SQL Server
+    </span>
+  </p>
+  <h3 style="margin:0 0 6px 0;font-weight:700;color:#334155;letter-spacing:.2px;">
+    Frontend and Frameworks
+  </h3>
+   <div style="height:2px;background:linear-gradient(90deg,#6D28D9,#0EA5E9);width:230px;margin:6px 0 14px 0;border-radius:2px;"></div>
+  <p style="margin:0.2rem 0 1rem 0;">
+    <span style="display:inline-flex;align-items:center;margin-right:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="HTML5" style="vertical-align:middle;margin-right:8px;"> HTML5
+    </span>
+    <span style="display:inline-flex;align-items:center;margin-right:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="CSS3" style="vertical-align:middle;margin-right:8px;"> CSS3
+    </span>
+    <span style="display:inline-flex;align-items:center;margin-right:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="26" alt="Bootstrap" style="vertical-align:middle;margin-right:8px;"> Bootstrap
+    </span>
+  </p>
+  <h3 style="margin:0 0 6px 0;font-weight:700;color:#334155;letter-spacing:.2px;">
+    Cloud and DevOps
+  </h3>
+   <div style="height:2px;background:linear-gradient(90deg,#6D28D9,#0EA5E9);width:230px;margin:6px 0 14px 0;border-radius:2px;"></div>
+  <p style="margin:0.2rem 0 0 0;">
+    <span style="display:inline-flex;align-items:center;margin-right:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="26" alt="GitHub Actions" style="vertical-align:middle;margin-right:8px;"> GitHub Actions
+    </span>
+    <span style="display:inline-flex;align-items:center;margin-right:16px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="26" alt="Jenkins" style="vertical-align:middle;margin-right:8px;"> Jenkins
+    </span>
+  </p>
 
-### 💻 <span>Backend and Databases</span>
-<p>
-  <img src="https://img.shields.io/badge/.NET-512da8?logo=dotnet&logoColor=white&style=flat&labelColor=512da8&color=DDD3F8" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-d84315?logo=microsoftsqlserver&logoColor=white&style=flat&labelColor=d84315&color=f3c2a2" />
-</p>
-
-### 🖍 <span>Frontend and Frameworks</span>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-e44d26?logo=html5&logoColor=white&style=flat&labelColor=e44d26&color=F2BDA5" />
-  <img src="https://img.shields.io/badge/CSS3-264de4?logo=css3&logoColor=white&style=flat&labelColor=264de4&color=BACAF7" />
-  <img src="https://img.shields.io/badge/Bootstrap-6f42c1?logo=bootstrap&logoColor=white&style=flat&labelColor=6f42c1&color=D5C9F7" />
-</p>
-
-### ☁️ <span>Cloud and DevOps</span>
-<p>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2c2e43?logo=githubactions&logoColor=white&style=flat&labelColor=2c2e43&color=BBB9E6" />
-  <img src="https://img.shields.io/badge/Jenkins-6d4c41?logo=jenkins&logoColor=white&style=flat&labelColor=6d4c41&color=D7C4B7" />
-</p>
+</div>
 
 ## ANALYTICS
 <div align="center">
