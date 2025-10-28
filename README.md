@@ -11,7 +11,7 @@
 
 ## TECH STACK
 
-### Programming Languages
+#### Programming Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="22" alt="C#" />
   <img src="https://img.shields.io/badge/C%23-7930B3?" height="22" />
@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?" height="22" />
 </p>
 
----
 
 ### Backend and Databases
 <p>
@@ -51,7 +50,6 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?" height="22" />
 </p>
 
----
 
 ### Cloud and DevOps
 <p>
