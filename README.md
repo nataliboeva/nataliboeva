@@ -9,50 +9,41 @@
 ## TECH STACK
 
 #### Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="22" alt="C#" />
-  <img src="https://img.shields.io/badge/C%23-7930B3?" height="22" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="22" alt="Java" />
-  <img src="https://img.shields.io/badge/Java-E76F00?" height="22" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" alt="C++" />
-  <img src="https://img.shields.io/badge/C++-00599C?" height="22" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?" height="22" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="22" alt="C#" style="vertical-align:middle;margin:4px"/>
+  <img src="https://img.shields.io/badge/C%23-7930B3" height="22" style="vertical-align:middle;margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="22" alt="Java" style="vertical-align:middle;margin:4px"/>
+  <img src="https://img.shields.io/badge/Java-E76F00" height="22" style="vertical-align:middle;margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" alt="C++" style="vertical-align:middle;margin:4px"/>
+  <img src="https://img.shields.io/badge/C++-00599C" height="22" style="vertical-align:middle;margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="JavaScript" style="vertical-align:middle;margin:4px"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E" height="22" style="vertical-align:middle;margin:4px"/>
 </p>
 
-
 #### Backend and Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="22" alt=".NET" />
-  <img src="https://img.shields.io/badge/.NET-512DA8?" height="22" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="26" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?" height="22" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="22" alt=".NET" style="vertical-align:middle;margin:4px"/>
+  <img src="https://img.shields.io/badge/.NET-512DA8" height="22" style="vertical-align:middle;margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="22" alt="Microsoft SQL Server" style="vertical-align:middle;margin:4px"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927" height="22" style="vertical-align:middle;margin:4px"/>
 </p>
 
 #### Frontend and Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="HTML5" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?" height="22" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="CSS3" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?" height="22" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="22" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?" height="22" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="HTML5" style="vertical-align:middle;margin:4px"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26" height="22" style="vertical-align:middle;margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="CSS3" style="vertical-align:middle;margin:4px"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6" height="22" style="vertical-align:middle;margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="22" alt="Bootstrap" style="vertical-align:middle;margin:4px"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3" height="22" style="vertical-align:middle;margin:4px"/>
 </p>
 
-
 #### Cloud and DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="28" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?" height="22" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="28" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?" height="22" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="22" alt="GitHub Actions" style="vertical-align:middle;margin:4px"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF" height="22" style="vertical-align:middle;margin:4px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="22" alt="Jenkins" style="vertical-align:middle;margin:4px"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939" height="22" style="vertical-align:middle;margin:4px"/>
 </p>
 
 ## ANALYTICS
