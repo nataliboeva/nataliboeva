@@ -8,43 +8,24 @@
 
 ## TECH STACK
 
-####  Programming Languages
-<table><tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="22" alt="C#"></td>
-<td><img src="https://img.shields.io/badge/C%23-7930B3" height="22" alt="C# badge"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="22" alt="Java"></td>
-<td><img src="https://img.shields.io/badge/Java-E76F00" height="22" alt="Java badge"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" alt="C++"></td>
-<td><img src="https://img.shields.io/badge/C++-00599C" height="22" alt="C++ badge"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="JavaScript"></td>
-<td><img src="https://img.shields.io/badge/JavaScript-F7DF1E" height="22" alt="JS badge"></td>
-</tr></table>
+#### Programming Languages
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg#gh-dark-mode-only)![C# badge](https://img.shields.io/badge/C%23-7930B3?style=flat&logo=csharp&logoColor=white)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg#gh-dark-mode-only)![Java badge](https://img.shields.io/badge/Java-E76F00?style=flat&logo=java&logoColor=white)
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg#gh-dark-mode-only)![C++ badge](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg#gh-dark-mode-only)![JS badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 #### Backend and Databases
-<table><tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="22" alt=".NET"></td>
-<td><img src="https://img.shields.io/badge/.NET-512DA8" height="22" alt=".NET badge"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="22" alt="SQL Server"></td>
-<td><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927" height="22" alt="SQL Server badge"></td>
-</tr></table>
+![.NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg#gh-dark-mode-only)![.NET badge](https://img.shields.io/badge/.NET-512DA8?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg#gh-dark-mode-only)![SQL badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 #### Frontend and Frameworks
-<table><tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="HTML5"></td>
-<td><img src="https://img.shields.io/badge/HTML5-E34F26" height="22" alt="HTML5 badge"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="CSS3"></td>
-<td><img src="https://img.shields.io/badge/CSS3-1572B6" height="22" alt="CSS3 badge"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="22" alt="Bootstrap"></td>
-<td><img src="https://img.shields.io/badge/Bootstrap-7952B3" height="22" alt="Bootstrap badge"></td>
-</tr></table>
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg#gh-dark-mode-only)![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg#gh-dark-mode-only)![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg#gh-dark-mode-only)![Bootstrap badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 #### Cloud and DevOps
-<table><tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="22" alt="GitHub Actions"></td>
-<td><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF" height="22" alt="GHA badge"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="22" alt="Jenkins"></td>
-<td><img src="https://img.shields.io/badge/Jenkins-D24939" height="22" alt="Jenkins badge"></td>
-</tr></table>
+![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg#gh-dark-mode-only)![GHA badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg#gh-dark-mode-only)![Jenkins badge](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 
 ## ANALYTICS
