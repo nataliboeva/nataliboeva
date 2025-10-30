@@ -7,43 +7,52 @@
 ## ABOUT ME &nbsp;<img src="https://komarev.com/ghpvc/?username=nataliboeva&color=371D51&style=flat-square&label=Profile%20views&labelColor=FFFFFF" alt="" align="center"/></h2>🎓  Welcome! I’m a software development student, passionate about coding, problem-solving, and building a solid tech foundation.<br><br>🎯  Beyond coding, I’m committed to developing a critical and creative approach to technology, always looking to innovate.
 
 ## TECH STACK
+## 🧰 TECH STACK
 
-#### Programming Languages
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
-![C# badge](https://img.shields.io/badge/C%23-7930B3)
-&nbsp;
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-![Java badge](https://img.shields.io/badge/Java-E76F00)
-&nbsp;
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
-![C++ badge](https://img.shields.io/badge/C++-00599C)
-&nbsp;
-![JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![JS badge](https://img.shields.io/badge/JavaScript-F7DF1E)
+#### 🖥️ Programming Languages
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="22" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-7930B3" height="22" alt="C# badge" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="22" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-E76F00" height="22" alt="Java badge" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" alt="C++" />
+  <img src="https://img.shields.io/badge/C++-00599C" height="22" alt="C++ badge" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E" height="22" alt="JS badge" />
+</span>
 
-#### Backend and Databases
-![.NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg)
-![.NET badge](https://img.shields.io/badge/.NET-512DA8)
-&nbsp;
-![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)
-![SQL badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927)
+#### ⚙️ Backend and Databases
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="22" alt=".NET" />
+  <img src="https://img.shields.io/badge/.NET-512DA8" height="22" alt=".NET badge" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="22" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927" height="22" alt="SQL Server badge" />
+</span>
 
-#### Frontend and Frameworks
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-![HTML badge](https://img.shields.io/badge/HTML5-E34F26)
-&nbsp;
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-![CSS badge](https://img.shields.io/badge/CSS3-1572B6)
-&nbsp;
-![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg)
-![Bootstrap badge](https://img.shields.io/badge/Bootstrap-7952B3)
+#### 🎨 Frontend and Frameworks
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="HTML5" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26" height="22" alt="HTML5 badge" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6" height="22" alt="CSS3 badge" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="22" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3" height="22" alt="Bootstrap badge" />
+</span>
 
-#### Cloud and DevOps
-![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg)
-![GHA badge](https://img.shields.io/badge/GitHub%20Actions-2088FF)
-&nbsp;
-![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg)
-![Jenkins badge](https://img.shields.io/badge/Jenkins-D24939)
+#### ☁️ Cloud and DevOps
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="22" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF" height="22" alt="GHA badge" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="22" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939" height="22" alt="Jenkins badge" />
+</span>
 
 
 ## ANALYTICS
