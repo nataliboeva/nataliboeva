@@ -42,13 +42,10 @@
 <p>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="22" alt="Ubuntu" />
      <img src="https://img.shields.io/badge/Ubuntu-E95420?" height="22" /> &nbsp;
-
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="22" alt="Docker" />
      <img src="https://img.shields.io/badge/Docker-2496ED?" height="22" /> &nbsp;
-     
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22" alt="Azure" />
      <img src="https://img.shields.io/badge/Azure-0078D4?" height="22" /> &nbsp;
-
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="28" alt="GitHub Actions" />
      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?" height="22" /> &nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="28" alt="Jenkins" />
