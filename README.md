@@ -16,8 +16,6 @@
      <img src="https://img.shields.io/badge/Java-E76F00?" height="22" /> &nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="22" alt="C++" />
      <img src="https://img.shields.io/badge/C++-00599C?" height="22" /> &nbsp;
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="JavaScript" />
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?" height="22" />
 </p>
 
 #### Backend and Databases
@@ -36,6 +34,8 @@
      <img src="https://img.shields.io/badge/CSS3-1572B6?" height="22" /> &nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="22" alt="Bootstrap" />
      <img src="https://img.shields.io/badge/Bootstrap-7952B3?" height="22" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="JavaScript" />
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?" height="22" />
 </p>
 
 #### Cloud and DevOps
