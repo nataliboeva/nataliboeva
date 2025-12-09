@@ -28,14 +28,14 @@
 
 #### Frontend and Frameworks
 <p>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="JavaScript" />
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?" height="22" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="22" alt="HTML5" />
      <img src="https://img.shields.io/badge/HTML5-E34F26?" height="22" /> &nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="22" alt="CSS3" />
      <img src="https://img.shields.io/badge/CSS3-1572B6?" height="22" /> &nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="22" alt="Bootstrap" />
-     <img src="https://img.shields.io/badge/Bootstrap-7952B3?" height="22" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="JavaScript" />
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?" height="22" />
+     <img src="https://img.shields.io/badge/Bootstrap-7952B3?" height="22" />     
 </p>
 
 #### Cloud and DevOps
