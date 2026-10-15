@@ -16,7 +16,7 @@ I build web applications end to end, from ASP.NET Core APIs and EF Core data mod
 
 - 💼 **Junior Software Engineer at [Infonetica](https://www.infonetica.net)** since February 2026, working across a .NET backend and a React + TypeScript frontend. That work lives in private company repositories, so this profile shows my personal projects.
 - 🎓 **BSc in Software Engineering** at the University of Plovdiv "Paisii Hilendarski" (2025 – 2029)
-- 📜 **10 SoftUni certificates**, including ASP.NET Advanced, Entity Framework Core and Microsoft SQL Server
+- 📜 **10 SoftUni certificates**, including ASP.NET Advanced, Entity Framework Core and Microsoft SQL Server ([course exercises](https://github.com/nataliboeva/softuni-courses))
 
 ## Featured projects
 
